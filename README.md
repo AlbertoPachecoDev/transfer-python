@@ -12,3 +12,5 @@ Definición del problema:
 Material suplementario del capítulo de libro:
 
 > A. Pacheco & R. Morales, _"Análisis de un caso de estudio de transferencia y consolidación de competencias aplicando el pensamiento computacional"_, en R. Morales, E. Morales, A. Pacheco, M. Quiroz & Luis E. Sucar (eds), _Pensamiento Computacional en México_, Academia Mexicana de Computación, 2021.
+
+[Jupyter Notebook interactivo](https://colab.research.google.com/drive/1IkzWI30viLvUx2gcknaGuWQFsbA2GJn0) disponible en Google Colaboratory.
